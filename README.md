@@ -1,195 +1,237 @@
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
-</p> -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Amr </h1>
-<h3 align="center">A passionate fullstack developer from China</h3>
+# 🚀 AMR ABU KHALED
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer+%7C+System+Architect;Building+Fast+%2B+Modern+%2B+Beautiful+Software;Clean+Code+%7C+Smart+Architecture+%7C+High+Performance" alt="Typing SVG" />
 
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0D1117)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:your.email@example.com)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+</div>
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
-
-### 🎧 Spotify Playing
-
-![spotify-github-profile](/img/default.svg)
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
-
-
-### :dart: Weekly Fuck The Code
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║  > INITIALIZING PROFILE_                                      ║
+║  > LOADING SKILLS.SYS...                      [████████] 100% ║
+║  > COMPILING EXPERIENCE.EXE...                [████████] 100% ║
+║  > SYSTEM READY. WELCOME TO THE MATRIX.                       ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<!--END_SECTION:waka-->
+---
 
-### :sparkles: My Followers
+## 🌐 </>  SYSTEM OVERVIEW
 
+```javascript
+class AmrAbuKhaled extends Developer {
+  constructor() {
+    this.role = "Full-Stack Engineer";
+    this.location = "Assiut, Egypt";
+    this.mindset = ["Problem Solver", "Fast Prototyper", "System Thinker"];
+    this.approach = "concept → prototype → production → scale";
+    this.philosophy = "Code that feels good. UI that speaks. Systems that scale.";
+  }
+  
+  getCurrentFocus() {
+    return [
+      "Building production-grade full-stack applications",
+      "AI-powered development workflows & automation",
+      "Mastering distributed systems & scalability",
+      "Clean architecture & maintainable codebases"
+    ];
+  }
+}
+```
 
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/NaiboWang">
-        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
-      </a>
-      <br />
-      <a href="https://github.com/NaiboWang">Naibo Wang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/submitaitools">
-        <img src="https://avatars2.githubusercontent.com/u/208140262" width="100px;" alt="submitaitools"/>
-      </a>
-      <br />
-      <a href="https://github.com/submitaitools">Selena Wren</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fbiego">
-        <img src="https://avatars2.githubusercontent.com/u/45796740" width="100px;" alt="fbiego"/>
-      </a>
-      <br />
-      <a href="https://github.com/fbiego">Felix Biego</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vickiegpt">
-        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="vickiegpt"/>
-      </a>
-      <br />
-      <a href="https://github.com/vickiegpt">Yiwei Yang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sbilly">
-        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
-      </a>
-      <br />
-      <a href="https://github.com/sbilly">sbilly</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
-      </a>
-      <br />
-      <a href="https://github.com/Leticia-maria">Leticia Madureira</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
-      </a>
-      <br />
-      <a href="https://github.com/snowdream">snowdream</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Hexzilla">
-        <img src="https://avatars2.githubusercontent.com/u/75077277" width="100px;" alt="Hexzilla"/>
-      </a>
-      <br />
-      <a href="https://github.com/Hexzilla">Hexzilla</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lichengtao1989">
-        <img src="https://avatars2.githubusercontent.com/u/10625423" width="100px;" alt="lichengtao1989"/>
-      </a>
-      <br />
-      <a href="https://github.com/lichengtao1989">mycodelct</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guanguans">
-        <img src="https://avatars2.githubusercontent.com/u/22309277" width="100px;" alt="guanguans"/>
-      </a>
-      <br />
-      <a href="https://github.com/guanguans">guanguans</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
-      </a>
-      <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DevenLu">
-        <img src="https://avatars2.githubusercontent.com/u/1639720" width="100px;" alt="DevenLu"/>
-      </a>
-      <br />
-      <a href="https://github.com/DevenLu">DevenLu</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
+<div align="center">
 
-- :computer: PC/Mac:
-    - M4 MacMini 16G+512G
-    - M1 Pro 16寸 16G+512G
-    - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
-    - MacBookPro2015 16G 256SSD
-    - Mac Mini m1 16G 512SSD
-    - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
-    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
-    - i5-10400  16G 512SSD Ubuntu20.04 + Win10
-    - i5-10400  16G 512SSD+256SSD Win10 + Big Sur 11.1
-    - AMD-4700GE  32G+16T+750Ti Exsi（LinuxMint+Win10）
-    - AMD-4700GE  32G+3T Exsi（LinuxMint+Win10）
-    - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
-    - 蜗牛星际 J1900+4G +3T DSM918+
-    - 威联通QNAP TS462C 500G
-    - 威联通QNAP TVS-675 8h8c
-    - ZimaBoard
-    - Gen8
-    - 硬酷R1 N6005 16+512
-    - UGREEN DX4600
-    - i7-6700t 32G 18TB Exsi(Win10 + Ubuntu)
-    - MINISFORUM um790 Pro 16G 2TSSD Linux
-    - MINISFORUM um480XT Pro 16G 512G SSD Linux Mint
-    - i5-4790 16G 60G 1T Linux Mint
-    - Dell R730XD(ESXi + 8Ubuntu + Win10)
+## ⚡ TECH STACK
 
-- :iphone: phone/iPhone:
-    - iPhone12
-    - OnePlus6
-    - OnePlus13
+</div>
 
-- :camera: Camera:
-    - Sony A6000
-    - Sony A6400
-    - Sony A7M4
+### 🔥 Backend & Server-Side
+<div align="center">
 
-- :microphone: Mic:
-    - SM7B + ID14MKII
-    - MAONO PM320T + E2
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)
 
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
+</div>
 
+### 🎨 Frontend & UI
+<div align="center">
 
-### :zap: Recent Activity
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#346](https://github.com/itgoyo/500Days-Of-Github/issues/346#issuecomment-3600367074) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. ❗ Opened issue [#352](https://github.com/itgoyo/500Days-Of-Github/issues/352) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-<!--END_SECTION:activity-->
+</div>
+
+### 🗄️ Databases & Storage
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117)
+
+</div>
+
+### 🛠️ DevOps & Tools
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1117)
+
+</div>
+
+### 💻 Languages
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📊 SYSTEM METRICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" />
+
+</div>
+
+---
+
+## 🎯 CORE CAPABILITIES
+
+<div align="center">
+
+| 🧠 **System Architecture** | ⚡ **Rapid Development** | 🎨 **UI/UX Engineering** |
+|:---:|:---:|:---:|
+| Design scalable, maintainable solutions | Prototype → Production, fast | Interfaces that feel good & look sharp |
+
+| 🔧 **Automation Master** | 📈 **Performance Obsessed** | 🚀 **Ship Fast** |
+|:---:|:---:|:---:|
+| If I do it twice, I automate it | Speed & optimization fanatic | Move with precision & purpose |
+
+</div>
+
+---
+
+## 🔥 CURRENT OPERATIONS
+
+```python
+class CurrentMission:
+    def __init__(self):
+        self.status = "ACTIVE"
+        self.missions = [
+            "🏗️  Architecting production-grade full-stack applications",
+            "🤖 Integrating AI workflows into development pipeline",
+            "📚 Mastering distributed systems & microservices",
+            "🌍 Contributing to open-source ecosystem",
+            "⚡ Building tools that make developers 10x faster"
+        ]
+    
+    def execute(self):
+        while self.status == "ACTIVE":
+            learn()
+            build()
+            ship()
+            iterate()
+```
+
+---
+
+## 💡 PHILOSOPHY.TXT
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  "Code that feels good. UI that speaks.                 │
+│   Systems that scale."                                  │
+│                                                         │
+│  > Write code humans can read                           │
+│  > Build products users love                            │
+│  > Learn in public, share knowledge                     │
+│  > Iterate fast, fail faster, improve fastest           │
+│                                                         │
+│  >> ALWAYS LEARNING. ALWAYS SHIPPING. ALWAYS EVOLVING.  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📡 CONNECT.EXE
+
+<div align="center">
+
+```ascii
+┌────────────────────────────────────────────────────────────┐
+│  AVAILABLE FOR:                                            │
+│  ✓ Freelance Projects                                      │
+│  ✓ Technical Consulting                                    │
+│  ✓ Collaboration Opportunities                             │
+│  ✓ Mentoring Aspiring Developers                           │
+│  ✓ Coffee Chats About Tech & Innovation                    │
+└────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-00FF41?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0D1117)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-00FF41?style=for-the-badge&logo=twitter&logoColor=00FF41&labelColor=0D1117)](https://twitter.com/yourhandle)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### ⚡ MOVE FAST. BUILD BETTER. NEVER SETTLE. ⚡
+
+```
+ ▄████▄   ▒█████  ▓█████▄ ▓█████     ██▓  ██████     ██▓     ██▓  █████▒▓█████ 
+▒██▀ ▀█  ▒██▒  ██▒▒██▀ ██▌▓█   ▀    ▓██▒▒██    ▒    ▓██▒    ▓██▒▓██   ▒ ▓█   ▀ 
+▒▓█    ▄ ▒██░  ██▒░██   █▌▒███      ▒██▒░ ▓██▄      ▒██░    ▒██▒▒████ ░ ▒███   
+▒▓▓▄ ▄██▒▒██   ██░░▓█▄   ▌▒▓█  ▄    ░██░  ▒   ██▒   ▒██░    ░██░░▓█▒  ░ ▒▓█  ▄ 
+▒ ▓███▀ ░░ ████▓▒░░▒████▓ ░▒████▒   ░██░▒██████▒▒   ░██████▒░██░░▒█░    ░▒████▒
+░ ░▒ ▒  ░░ ▒░▒░▒░  ▒▒▓  ▒ ░░ ▒░ ░   ░▓  ▒ ▒▓▒ ▒ ░   ░ ▒░▓  ░░▓   ▒ ░    ░░ ▒░ ░
+  ░  ▒     ░ ▒ ▒░  ░ ▒  ▒  ░ ░  ░    ▒ ░░ ░▒  ░ ░   ░ ░ ▒  ░ ▒ ░ ░       ░ ░  ░
+░        ░ ░ ░ ▒   ░ ░  ░    ░       ▒ ░░  ░  ░       ░ ░    ▒ ░ ░ ░       ░   
+░ ░          ░ ░     ░       ░  ░    ░        ░         ░  ░ ░             ░  ░
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+
+**© 2024 Amr Abu Khaled | Built with 💚 and ☕**
+
+</div>
